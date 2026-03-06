@@ -15,4 +15,4 @@ Technologies Used:
 * JavaScript
 
 Live Project:
-https://gundwork-assessment.netlify.app/
+https://gundwork-assignment.netlify.app
